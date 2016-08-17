@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Play Ethic ]]></title>
         <description><![CDATA[The Play Ethic ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theplayethic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 17:01:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:04:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theplayethic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Work, damn you!]]></title>
+            <description><![CDATA[<article><h1>Work, damn you!</h1><p>Brian Eno is a music innovator, artist and producer. He was a founding member of Roxy Music, and has since released a series of highly acclaimed vocal and instrumental solo albums, and produced albums with U2, David Bowie, Talking Heads, Coldplay and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7387c061e94f6244dcf68cbbdf0fa129/noop.jpg?input=http%3A%2F%2Fwww.futurefest.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fasset_logo_greyscale%2Fpublic%2Fassets%2Fimages%2Foms_rgb_light.jpg%3Fitok%3D9LAGPlXb"></article>]]></description>
+            <link>http://www.futurefest.org/lineup</link>
+            <guid isPermaLink="false">07709fc9-cdf4-49e1-a95a-b33e13f9fda9</guid>
+            <pubDate>Wed, 17 Aug 2016 17:04:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I curated the PLAY theme here]]></title>
             <description><![CDATA[<article><h1>I curated the PLAY theme here</h1><p>Brian Eno is a music innovator, artist and producer. He was a founding member of Roxy Music, and has since released a series of highly acclaimed vocal and instrumental solo albums, and produced albums with U2, David Bowie, Talking Heads, Coldplay and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7387c061e94f6244dcf68cbbdf0fa129/noop.jpg?input=http%3A%2F%2Fwww.futurefest.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fasset_logo_greyscale%2Fpublic%2Fassets%2Fimages%2Foms_rgb_light.jpg%3Fitok%3D9LAGPlXb"></article>]]></description>
