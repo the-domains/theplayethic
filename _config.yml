@@ -1,14 +1,14 @@
-layout_spectrum: 0.8673835
-typography_spectrum: 1
+layout_spectrum: 1
 color:
   saturation: 0.2708519
   lightness: 0.8113765
   brandStrength: 0.2922938
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#C3C3C3'
-    - '#3A3A3A'
-    - '#636363'
   rhythmicContrast: 0.8070484
-name: 'The Play Ethic '
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.368954
+name: 'Theplayethic '
